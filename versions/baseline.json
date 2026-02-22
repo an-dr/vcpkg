@@ -6385,7 +6385,7 @@
       "port-version": 0
     },
     "microlog": {
-      "baseline": "7.0.1",
+      "baseline": "7.0.1-vcpkg-test",
       "port-version": 0
     },
     "microsoft-signalr": {
